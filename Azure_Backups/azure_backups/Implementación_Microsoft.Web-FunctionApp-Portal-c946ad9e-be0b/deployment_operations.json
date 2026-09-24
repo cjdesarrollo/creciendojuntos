@@ -1,0 +1,221 @@
+[
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/D07A576DA9DFA0E9",
+    "operationId": "D07A576DA9DFA0E9",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:52.5097802Z",
+      "duration": "PT37.0818038S",
+      "trackingId": "b0eb2387-135c-4082-9807-26384ef40d5d",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.ManagedIdentity/userAssignedIdentities/respaldodb-id-b62a/federatedIdentityCredentials/64znv77d5m5oi",
+        "resourceType": "Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials",
+        "resourceName": "respaldodb-id-b62a/64znv77d5m5oi"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/CB5FA970B53A69C1",
+    "operationId": "CB5FA970B53A69C1",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:53.1472269Z",
+      "duration": "PT2.7854843S",
+      "trackingId": "f22cea3d-287e-4ec1-b0b1-e8a1bbf36b98",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Web/sites/respaldodb/providers/Microsoft.Authorization/roleAssignments/b28b0aa6-ae22-5122-b58f-75dd5afb71a6",
+        "resourceType": "Microsoft.Authorization/roleAssignments",
+        "resourceName": "b28b0aa6-ae22-5122-b58f-75dd5afb71a6"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/5A3B887CFDC11983",
+    "operationId": "5A3B887CFDC11983",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:50.3113145Z",
+      "duration": "PT5.5432685S",
+      "trackingId": "76342c7f-1ef4-4fad-bcb3-7fe300a3697b",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Web/sites/respaldodb/sourcecontrols/web",
+        "resourceType": "Microsoft.Web/sites/sourcecontrols",
+        "resourceName": "respaldodb/web"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/1EC12C7150EF9E68",
+    "operationId": "1EC12C7150EF9E68",
+    "properties": {
+      "provisioningOperation": "Read",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:50.3113145Z",
+      "duration": "PT2.6838341S",
+      "trackingId": "d0fdef62-17d3-4c73-8b07-7bab11216e13",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.ManagedIdentity/userAssignedIdentities/respaldodb-id-b62a",
+        "resourceType": "Microsoft.ManagedIdentity/userAssignedIdentities",
+        "resourceName": "respaldodb-id-b62a",
+        "apiVersion": "2018-11-30"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/4C2C2468DA403C36",
+    "operationId": "4C2C2468DA403C36",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:50.3113145Z",
+      "duration": "PT2.136949S",
+      "trackingId": "1ee6dcca-8f7f-439c-9264-d1e7c83d859f",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.ManagedIdentity/userAssignedIdentities/respaldodb-id-b62a",
+        "resourceType": "Microsoft.ManagedIdentity/userAssignedIdentities",
+        "resourceName": "respaldodb-id-b62a"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/BBAE096011E33CCC",
+    "operationId": "BBAE096011E33CCC",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:50.3113145Z",
+      "duration": "PT1.2463961S",
+      "trackingId": "450ee599-365e-4f02-bcc5-363275230974",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Web/sites/respaldodb/basicPublishingCredentialsPolicies/scm",
+        "resourceType": "Microsoft.Web/sites/basicPublishingCredentialsPolicies",
+        "resourceName": "respaldodb/scm"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/2912F2BD3E9AB789",
+    "operationId": "2912F2BD3E9AB789",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:50.3113145Z",
+      "duration": "PT1.0744627S",
+      "trackingId": "fa7ff2c5-efbc-4a2c-8574-dd3c9818ed15",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Web/sites/respaldodb/basicPublishingCredentialsPolicies/ftp",
+        "resourceType": "Microsoft.Web/sites/basicPublishingCredentialsPolicies",
+        "resourceName": "respaldodb/ftp"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/BB7CAC7A99137CC9",
+    "operationId": "BB7CAC7A99137CC9",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:25.6791567Z",
+      "duration": "PT24.378437S",
+      "trackingId": "f5bce682-ea07-42b4-8ea3-3d644bcc679b",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Web/sites/respaldodb",
+        "resourceType": "Microsoft.Web/sites",
+        "resourceName": "respaldodb"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/C7FECB9B5A9C662E",
+    "operationId": "C7FECB9B5A9C662E",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:25.5005059Z",
+      "duration": "PT2.2668974S",
+      "trackingId": "cc59eacf-fdd4-419f-8ecf-22e5496e62fa",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/StorageBlobContainerTemplate",
+        "resourceType": "Microsoft.Resources/deployments",
+        "resourceName": "StorageBlobContainerTemplate"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/A71EEAD132995ED1",
+    "operationId": "A71EEAD132995ED1",
+    "properties": {
+      "provisioningOperation": "Action",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:05.1547541Z",
+      "duration": "PT20.4804513S",
+      "trackingId": "9aefb4c0-7c54-44be-9623-6c2f58925cc2",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Storage/storageAccounts/agrisource852e",
+        "resourceType": "Microsoft.Storage/storageAccounts",
+        "resourceName": "agrisource852e",
+        "actionName": "listKeys",
+        "apiVersion": "2022-05-01"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/2641026F1F99728D",
+    "operationId": "2641026F1F99728D",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:05.1547541Z",
+      "duration": "PT4.822208S",
+      "trackingId": "bf0c2c8a-31fa-4631-940d-12b8e28d0374",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Web/serverfarms/ASP-agrisource-b526",
+        "resourceType": "Microsoft.Web/serverfarms",
+        "resourceName": "ASP-agrisource-b526"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/69319BE89E2286DD",
+    "operationId": "69319BE89E2286DD",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:01:05.1547541Z",
+      "duration": "PT20.2773229S",
+      "trackingId": "06cbc233-da81-4d77-8921-b120a424e3e1",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Storage/storageAccounts/agrisource852e",
+        "resourceType": "Microsoft.Storage/storageAccounts",
+        "resourceName": "agrisource852e"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/0c9c6f13-43f3-428d-b6cb-f4b6d97fd1e3/resourceGroups/agrisource/providers/Microsoft.Resources/deployments/Microsoft.Web-FunctionApp-Portal-c946ad9e-be0b/operations/08584160896209438840",
+    "operationId": "08584160896209438840",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2026-07-31T17:02:29.6462638Z",
+      "duration": "PT0.3827827S",
+      "trackingId": "4bc3065a-0a52-4ebb-8ce8-896be2748a5f",
+      "statusCode": "OK"
+    }
+  }
+]

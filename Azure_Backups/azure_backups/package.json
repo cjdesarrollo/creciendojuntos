@@ -1,0 +1,13 @@
+{
+  "name": "azure-functions-node",
+  "version": "1.0.0",
+  "description": "Proyecto de Azure Functions en Node.js (Modelo v4)",
+  "main": "src/functions/*.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.6.0"
+  }
+}
